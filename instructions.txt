@@ -1,5 +1,7 @@
 Useful command: git help [command] or git [command] --help
 
+Navigate to directory with Gitbash: cd /c/Users/filepath
+
 Make directory: test
 Move into directory: cd test
 Initialize Git: git init
