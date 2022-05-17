@@ -4,3 +4,24 @@ Make directory: test
 Move into directory: cd test
 Initialize Git: git init
 Make text file.
+
+Check status of git: git status
+
+Add file to current directory: git add [filename]
+
+Commit the file: git commit -m "message"
+
+If you get an Author identity unknown message, then run:
+	git config --global user.email "you@example.com"
+	git config --global user.name "Your Name"
+
+Connect to Github
+	git config --global user.username [username]
+
+Create repository on GitHub, get address
+
+Add the repository remotely:
+	git remote add origin [Git address]
+
+Push files to Git:
+	git push origin master
