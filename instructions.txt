@@ -25,3 +25,5 @@ Add the repository remotely:
 
 Push files to Git:
 	git push origin master
+
+To access nano: nano [filename]
