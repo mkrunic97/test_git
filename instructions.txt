@@ -1,0 +1,6 @@
+Useful command: git help [command] or git [command] --help
+
+Make directory: test
+Move into directory: cd test
+Initialize Git: git init
+Make text file.
