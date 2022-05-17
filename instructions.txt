@@ -29,3 +29,5 @@ Push files to Git:
 	git push origin master
 
 To access nano: nano [filename]
+
+Pull a file: git pull [address]
